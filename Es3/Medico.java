@@ -29,6 +29,14 @@ public class Medico {
         this.name = name;
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (!(o instanceof Medico)) return false;
