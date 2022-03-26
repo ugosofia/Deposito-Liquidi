@@ -1,4 +1,4 @@
-# My Repository
+# Esercitazione Contenitore
 
 Si vogliono mantenere le informazioni su un deposito di contenitori di liquidi.
 Ogni contenitore (C) è dotato di un codice univoco; i contenitori possono essere di due tipi: lattine (L) e bidoni (B) entrambe queste categorie sono dotate di un campo nome per identificare il liquido contenuto e di un campo qta per dichiarare la quantità contenuta.
