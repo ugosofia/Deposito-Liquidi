@@ -1,4 +1,5 @@
-- il primo output da errore di compilazione per via della terza stampa.
+- il primo output da errore di compilazione per via della terza stampa, dato che il metodo invocato è presente in due classi diverse,
+per cui il programma non sa quale invocare.
  Se ignoriamo l'istruzione che da errore, il programma stampa in output:
 B1
 C3: C2
