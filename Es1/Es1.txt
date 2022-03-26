@@ -1,0 +1,9 @@
+- il primo output da errore di compilazione per via della terza stampa.
+ Se ignoriamo l'istruzione che da errore, il programma stampa in output:
+B1
+C3: C2
+11
+
+- alfa.f(gamma,3) -->   String f(A x, int y) firma del metodo chiamato
+  gamma.f(null,4) -->   String f(C x, int y) firma del metodo chiamato
+  f(x,y*2.0)  -->       String f(Object x, double y) firma del metodo chiamato
